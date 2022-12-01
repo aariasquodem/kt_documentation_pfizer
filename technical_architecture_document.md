@@ -26,12 +26,6 @@
 * The idea behind this project was to create build website for vaccine campaing.
 * Site-specific URL should be available for the world.
 
-*Major changes compared to AAD Congress:*
-* It consists of a game called cytokine game (jakpairing) which was provide by other agencies..
-* A carousal panel is added, and one is removed.
-* Assets related update in site specific pages. 
-* Contact Us Microservices setting is site specific.
-
 *Feature are mentioned below:*
 
 * Top nav menu in desktop view.
@@ -74,7 +68,7 @@
 
 *Architecture Configurability*
 
-* Solution will consist on building simple static site based on HTML using Edison Lite Platform
+* Solution will consist on building simple static site based on HTML using Plain Edison Lite Platform without any framework.
 
 
 *Architecture Quality & Alignment*
